@@ -1,0 +1,14 @@
+Table 1. Results of Current and old Tesseract.
+
+Character Word
+Ver Set Errs %Err %Chg Errs %Err %Chg
+HP bus 5959 1.86 1293 4.27
+2.0 bus 6449 2.02 8.22 1295 4.28 0.15
+HP doe 36349 2.48 7042 5.13
+2.0 do: 29921 2.04 ~17.68 6791 4.95 3.56
+HP mag 15043 2.26 3379 5.01
+2.0 mag 14814 2.22 ~1.52 3133 4.64 ~7.28
+HP news 6432 1.31 1502 3.06
+2.0 news 7935 1.61 23.36 1284 2.62 ~14.51
+2.0 total 59119 ~7.31 12503 5.39
+
